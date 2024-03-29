@@ -116,3 +116,37 @@ footer {
     background-color: #333; 
     color: white; 
 }
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.assignments {
+    text-align: center;
+}
+
+.assignment {
+    display: inline-block;
+    margin: 20px;
+    text-align: center;
+}
+
+.assignment img {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.assignment p {
+    margin: 0;
+}
