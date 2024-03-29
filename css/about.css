@@ -1,0 +1,186 @@
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+}
+
+.navbar ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.navbar ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.navbar ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 50px 0;
+    text-align: center;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    color:#061050;
+    font-weight: bold;
+    font-family: "Comfortaa", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+#about {
+    padding: 50px 0; 
+}
+
+.about-section {
+    display: flex;
+    align-items: center;
+}
+
+.about-section img {
+    width: 200px; 
+    margin-right: 20px; 
+}
+
+.about-section .text {
+    flex: 1; 
+    font-family: "Comfortaa", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+.about-section p {
+    font-size: 1rem;
+}
+
+/* Header */
+.navbar {
+    background-color: #333;
+    overflow: hidden;
+}
+
+.navbar ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.navbar ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.navbar ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.about-section {
+    text-align: center;
+}
+
+.about-section .text p {
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 18px;
+}
+
+/* About Section */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.about-section {
+    text-align: center;
+}
+
+.about-section .text p {
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 18px;
+}
+
+/* Interests Section */
+#interests {
+    background-color: #f9f9f9;
+    padding: 50px 0;
+}
+
+#interests .container {
+    text-align: center;
+}
+
+#interests h1 {
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 36px;
+    margin-bottom: 20px;
+    background-color: #E4E7F7;
+}
+
+#interests .interests {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+#interests .interest {
+    width: 200px;
+}
+
+#interests .interest img {
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+#interests .interest p {
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 18px;
+    background-color: #E4E7F7;
+}
+
+footer {
+    padding: 5px; 
+    height: 50px; 
+    background-color: #333; 
+    color: white; 
+}
